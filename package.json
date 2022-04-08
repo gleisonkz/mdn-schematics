@@ -1,6 +1,6 @@
 {
   "name": "mdn-schematics",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Schematics criada como exemplo para o artigo https://gleisonsubzerokz.medium.com/angular-schematics-criando-projetos-customizados-edf89fd434dd",
   "scripts": {
     "build": "tsc -p tsconfig.json",
