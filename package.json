@@ -1,0 +1,29 @@
+{
+  "name": "mdn-schematics",
+  "version": "0.0.1",
+  "description": "Schematics criada como exemplo para o artigo https://gleisonsubzerokz.medium.com/angular-schematics-criando-projetos-customizados-edf89fd434dd",
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "watch": "tsc -p tsconfig.json --watch",
+    "test": "npm run build && jasmine src/**/*_spec.js"
+  },
+  "keywords": [
+    "schematics",
+    "angular",
+    "ng-new"
+  ],
+  "author": "Gleison de Almeida Ribeiro",
+  "license": "MIT",
+  "schematics": "./src/collection.json",
+  "dependencies": {
+    "@angular-devkit/core": "^13.3.2",
+    "@angular-devkit/schematics": "^13.3.2",
+    "@schematics/angular": "^13.3.2",
+    "typescript": "~4.6.2"
+  },
+  "devDependencies": {
+    "@types/jasmine": "~3.10.0",
+    "@types/node": "^12.11.1",
+    "jasmine": "^4.0.0"
+  }
+}
