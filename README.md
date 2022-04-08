@@ -4,7 +4,7 @@ Este é um projeto de demonstração usado como apoio para o artigo abaixo:
 
 ## Clique na Imagem pra abrir o Artigo
 
-[![Preview](.github/preview.png)](https://gleisonsubzerokz.medium.com/angular-schematics-criando-projetos-customizados-edf89fd434dd)
+[![Preview](https://miro.medium.com/max/1400/1*G3862Y2WBMWgTcc00l54KQ.png)](https://gleisonsubzerokz.medium.com/angular-schematics-criando-projetos-customizados-edf89fd434dd)
 
 ### Testing
 
